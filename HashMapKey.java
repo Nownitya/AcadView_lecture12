@@ -17,7 +17,6 @@ public class HashMapKey
         for(Map.Entry a:hm.entrySet())
         {
             System.out.println(a.getKey()+" "+a.getValue());  
-        
         }
     }
 }
