@@ -9,10 +9,10 @@ public class HashMapKey
         HashMap<Integer, String> hm = new HashMap <>();
         hm.put(1,"Coca-Cola");
         hm.put(2,"Sprite");
-        hm.put(1,"Mt. Due");
-        hm.put(2,"Froti");
-        hm.put(1,"7Up");
-        hm.put(2,"Mazza");
+        hm.put(3,"Mt. Due");
+        hm.put(4,"Froti");
+        hm.put(5,"7Up");
+        hm.put(6,"Mazza");
         
         for(Map.Entry a:hm.entrySet())
         {
